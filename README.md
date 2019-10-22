@@ -1,2 +1,1 @@
-# lthwansible
-Learn the hard Way - Ansible
+# Learn the Hard Way - Ansible
